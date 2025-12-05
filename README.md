@@ -1,10 +1,10 @@
-# pt-util
+# latabu
 A javascript function group.
 ## install
 ```bash
-npm install pt-utils
+npm install latabu
 ```
 ## usage
 ```javascript
-improt * as utils from 'pt-utils'
+improt * as utils from 'latabu'
 ```
